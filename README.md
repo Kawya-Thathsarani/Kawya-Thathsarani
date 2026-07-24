@@ -32,16 +32,16 @@
 ## 🚀 Featured Projects
 
   ### 🏫 BCI Management System
-    A web-based management system designed to manage academic and administrative activities efficiently. 
+  A web-based management system designed to manage academic and administrative activities efficiently. 
 
   ### 📱 FutureFund – Smart Money Goal & Salary Manager
-    A Flutter-based mobile application for managing salary, expenses, budgeting, and future financial goals.
+  A Flutter-based mobile application for managing salary, expenses, budgeting, and future financial goals.
 
   ### 🤖 Automated Career Roadmap Platform
-    An AI-powered platform that identifies skill gaps and generates personalized career learning paths.
+  An AI-powered platform that identifies skill gaps and generates personalized career learning paths.
 
   ### 🌐 Cafeteria Web application
-    A PHP and MySQL-based web application that allows students to order food online, manage orders, and reduce waiting time in cafeteria queues.
+  A PHP and MySQL-based web application that allows students to order food online, manage orders, and reduce waiting time in cafeteria queues.
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
@@ -92,36 +92,29 @@
 ### 🧊 3D Contribution Calendar
 
 <div align="center">
-
-<!-- Generated automatically by yohanesnuwara/github-profile-3d-contrib via GitHub Actions -->
-<img src="https://raw.githubusercontent.com/kawyathathsarani/kawyathathsarani/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+  
+<img src="output/github-contribution-grid-snake-dark.svg" width="98%"/>
 
 </div>
-
-> ℹ️ The 3D contribution grid and snake animation above render **only after** you set up the GitHub Actions workflows below — see the "Enabling the animations" section.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kawya-thathsarani/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
-</a>
-<a href="mailto:kawyathathsarani.622@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="35" width="45" />
-</a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-</div>
-
-<a href="https://instagram.com/kwy_thathsarani" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/kawya-thathsarani/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  </a>
+  <a href="mailto:kawyathathsarani.622@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="35" width="45" />
+  </a>
+  <a href="https://instagram.com/kwy_thathsarani" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
+  </a>
 </p>
 
 ---
 
 ⭐ *"Quality is never an accident; it is always the result of intelligent effort."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
