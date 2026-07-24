@@ -91,13 +91,11 @@
 
 ### 🧊 3D Contribution Calendar
 
+### 🧊 3D Contribution Calendar
+
 <div align="center">
-  
-<img src="output/github-contribution-grid-snake-dark.svg" width="98%"/>
-
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="98%"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 ## 🌐 Connect with Me
 
