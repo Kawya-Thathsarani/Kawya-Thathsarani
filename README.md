@@ -112,7 +112,7 @@
 </p>
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Quality+is+never+an+accident%3B+it+is+always+the+result+of+intelligent+effort...+%E2%AD%90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=14&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1200&lines=Quality+is+never+an+accident+it+is+always+the+result+of+intelligent+effort.+%E2%AD%90" alt="Typing SVG" />
 </p>
 
                 
