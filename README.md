@@ -81,14 +81,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kawyathathsarani&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kawyathathsarani&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kawyathathsarani&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=kawyathathsarani&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kawyathathsarani&theme=react-dark&hide_border=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kawyathathsarani&theme=react-dark&hide_border=true" width="98%" alt="Activity Graph"/>
 </div>
-
 ### 🧊 3D Contribution Calendar
 
 <div align="center">
@@ -96,20 +95,26 @@
 </div>
 
 ## 🌐 Connect with Me
-
+</br>
 <p align="left">
   <a href="https://www.linkedin.com/in/kawya-thathsarani/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
   </a>
+  
   <a href="mailto:kawyathathsarani.622@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="35" width="45" />
   </a>
+  
   <a href="https://instagram.com/kwy_thathsarani" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
   </a>
+  
 </p>
----
+<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Quality+is+never+an+accident%3B+it+is+always+the+result+of+intelligent+effort...+%E2%AD%90" />
+</p>
 
-⭐ *"Quality is never an accident; it is always the result of intelligent effort."*
+                
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
