@@ -91,26 +91,23 @@
 
 ### 🧊 3D Contribution Calendar
 
-### 🧊 3D Contribution Calendar
-
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="98%"/>
 </div>
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/kawya-thathsarani/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
   </a>
   <a href="mailto:kawyathathsarani.622@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="35" width="45" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="35" width="45" />
   </a>
   <a href="https://instagram.com/kwy_thathsarani" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
   </a>
 </p>
-
 ---
 
 ⭐ *"Quality is never an accident; it is always the result of intelligent effort."*
