@@ -27,23 +27,21 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
+<div align="left">
+  
 ## 🚀 Featured Projects
 
-<div align="center">
+  ### 🏫 BCI Management System
+    A web-based management system designed to manage academic and administrative activities efficiently. 
 
-## 🚀 Featured Projects
+  ### 📱 FutureFund – Smart Money Goal & Salary Manager
+    A Flutter-based mobile application for managing salary, expenses, budgeting, and future financial goals.
 
-### 🏫 BCI Management System
-A web-based management system designed to manage academic and administrative activities efficiently. 
+  ### 🤖 Automated Career Roadmap Platform
+    An AI-powered platform that identifies skill gaps and generates personalized career learning paths.
 
-### 📱 FutureFund – Smart Money Goal & Salary Manager
-A Flutter-based mobile application for managing salary, expenses, budgeting, and future financial goals.
-
-### 🤖 Automated Career Roadmap Platform
-An AI-powered platform that identifies skill gaps and generates personalized career learning paths.
-
-### 🌐 Cafeteria Web application
-A PHP and MySQL-based web application that allows students to order food online, manage orders, and reduce waiting time in cafeteria queues.
+  ### 🌐 Cafeteria Web application
+    A PHP and MySQL-based web application that allows students to order food online, manage orders, and reduce waiting time in cafeteria queues.
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
@@ -68,9 +66,14 @@ A PHP and MySQL-based web application that allows students to order food online,
 
 ## 📚 Currently Learning
 
-<p align="center">
-✅ Manual Testing &nbsp;•&nbsp; ✅ STLC &nbsp;•&nbsp; ✅ SDLC &nbsp;•&nbsp; ✅ Selenium WebDriver <br/>
-✅ Postman API Testing &nbsp;•&nbsp; ✅ SQL &nbsp;•&nbsp; ✅ JIRA &nbsp;•&nbsp; ✅ Git & GitHub
+<p align="left">
+   🧪  Software Testing <br/>
+   🔍  Test Case Design <br/>
+   🐞  Bug Reporting <br/>
+   🤖  Selenium Automation <br/>  
+   📡  API Testing with Postman<br/> 
+   🗄️  SQL <br/>
+   ⚙️  Agile & JIRA <br/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
