@@ -34,7 +34,7 @@
   ### 🏫 BCI Management System
   A web-based management system designed to manage academic and administrative activities efficiently. 
 
-  ### 📱 FutureFund – Smart Money Goal & Salary Manager
+  ### 📱 Dremopocket – Smart Money Goal & Salary Manager
   A Flutter-based mobile application for managing salary, expenses, budgeting, and future financial goals.
 
   ### 🤖 Automated Career Roadmap Platform
@@ -112,7 +112,7 @@
 </p>
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=14&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1200&lines=Quality+is+never+an+accident+it+is+always+the+result+of+intelligent+effort.+%E2%AD%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=25&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1200&lines=Quality+is+never+an+accident+it+is+always+the+result+of+intelligent+effort.+%E2%AD%90" alt="Typing SVG" />
 </p>
 
                 
